@@ -1,0 +1,9 @@
+[INFO ] 2022-03-20 11:27:55.517 [main] Log4J - this id information message
+[ERROR] 2022-03-20 11:27:55.520 [main] Log4J - this is error message
+[WARN ] 2022-03-20 11:27:55.520 [main] Log4J - this is warner message
+[FATAL] 2022-03-20 11:27:55.520 [main] Log4J - this is fatal message
+[INFO ] 2022-03-20 11:29:56.551 [main] Log4J - this id information message
+[DEBUG] 2022-03-20 11:29:56.553 [main] Log4J - this is debug message
+[ERROR] 2022-03-20 11:29:56.553 [main] Log4J - this is error message
+[WARN ] 2022-03-20 11:29:56.553 [main] Log4J - this is warner message
+[FATAL] 2022-03-20 11:29:56.553 [main] Log4J - this is fatal message
